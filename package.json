@@ -1,0 +1,41 @@
+{
+  "name": "stam2016",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://camille-s.github.io/stam2016",
+  "dependencies": {
+    "@vx/axis": "0.0.153",
+    "@vx/geo": "0.0.153",
+    "@vx/group": "0.0.153",
+    "@vx/legend": "0.0.154",
+    "@vx/responsive": "0.0.153",
+    "@vx/scale": "0.0.153",
+    "@vx/shape": "0.0.153",
+    "d3-array": "^1.2.1",
+    "d3-collection": "^1.0.4",
+    "d3-format": "^1.2.2",
+    "d3-queue": "^3.0.7",
+    "d3-request": "^1.0.6",
+    "d3-scale-chromatic": "^1.1.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7",
+    "react-motion": "^0.5.2",
+    "react-portal-tooltip": "^2.3.0",
+    "react-scripts": "1.1.0",
+    "react-table": "^6.7.6",
+    "semantic-ui-css": "^2.2.12",
+    "semantic-ui-react": "^0.77.2",
+    "simple-statistics": "^5.2.1",
+    "topojson-client": "^3.0.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

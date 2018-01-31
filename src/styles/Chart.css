@@ -1,0 +1,13 @@
+.Chart {
+	max-width: 600px;
+	padding: 12px;
+	font-size: 0.8em;
+}
+
+.Chart g.vx-axis-bottom line.vx-axis-line {
+	stroke-width: 0.8;
+}
+
+.Chart g.vx-axis-bottom g.vx-axis-tick text {
+	font-size: 0.9em;
+}
