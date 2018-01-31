@@ -1,0 +1,596 @@
+neighborhood,city,geoType,indicator,value,topic,type,format,order,topicOrder
+Belltown,Stamford,1_neighborhood,Total population,4258,Age,table,",",1,1
+Cove-East Side,Stamford,1_neighborhood,Total population,17977,Age,table,",",1,1
+Downtown,Stamford,1_neighborhood,Total population,19440,Age,table,",",1,1
+Glenbrook,Stamford,1_neighborhood,Total population,12814,Age,table,",",1,1
+Newfield,Stamford,1_neighborhood,Total population,3408,Age,table,",",1,1
+North Stamford,Stamford,1_neighborhood,Total population,14599,Age,table,",",1,1
+PH-Roxbury-Westover,Stamford,1_neighborhood,Total population,4972,Age,table,",",1,1
+Ridgeway,Stamford,1_neighborhood,Total population,4678,Age,table,",",1,1
+Shippan,Stamford,1_neighborhood,Total population,2281,Age,table,",",1,1
+South End,Stamford,1_neighborhood,Total population,4468,Age,table,",",1,1
+Springdale,Stamford,1_neighborhood,Total population,7229,Age,table,",",1,1
+Turn of River,Stamford,1_neighborhood,Total population,12589,Age,table,",",1,1
+Waterside,Stamford,1_neighborhood,Total population,5836,Age,table,",",1,1
+West Side,Stamford,1_neighborhood,Total population,12861,Age,table,",",1,1
+Stamford,Stamford,2_city,Total population,127410,Age,table,",",1,1
+Fairfield County,Stamford,3_county,Total population,941618,Age,table,",",1,1
+Connecticut,Stamford,4_state,Total population,3588570,Age,table,",",1,1
+Belltown,Stamford,1_neighborhood,Population under age 18,948,Age,table,",",2,2
+Cove-East Side,Stamford,1_neighborhood,Population under age 18,3771,Age,table,",",2,2
+Downtown,Stamford,1_neighborhood,Population under age 18,2870,Age,table,",",2,2
+Glenbrook,Stamford,1_neighborhood,Population under age 18,2768,Age,table,",",2,2
+Newfield,Stamford,1_neighborhood,Population under age 18,688,Age,table,",",2,2
+North Stamford,Stamford,1_neighborhood,Population under age 18,3507,Age,table,",",2,2
+PH-Roxbury-Westover,Stamford,1_neighborhood,Population under age 18,1003,Age,table,",",2,2
+Ridgeway,Stamford,1_neighborhood,Population under age 18,941,Age,table,",",2,2
+Shippan,Stamford,1_neighborhood,Population under age 18,514,Age,table,",",2,2
+South End,Stamford,1_neighborhood,Population under age 18,994,Age,table,",",2,2
+Springdale,Stamford,1_neighborhood,Population under age 18,1688,Age,table,",",2,2
+Turn of River,Stamford,1_neighborhood,Population under age 18,2662,Age,table,",",2,2
+Waterside,Stamford,1_neighborhood,Population under age 18,1326,Age,table,",",2,2
+West Side,Stamford,1_neighborhood,Population under age 18,3461,Age,table,",",2,2
+Stamford,Stamford,2_city,Population under age 18,27141,Age,table,",",2,2
+Fairfield County,Stamford,3_county,Population under age 18,222006,Age,table,",",2,2
+Connecticut,Stamford,4_state,Population under age 18,773652,Age,table,",",2,2
+Belltown,Stamford,1_neighborhood,Percent under age 18,0.223,Age,map,.0%,3,3
+Cove-East Side,Stamford,1_neighborhood,Percent under age 18,0.21,Age,map,.0%,3,3
+Downtown,Stamford,1_neighborhood,Percent under age 18,0.148,Age,map,.0%,3,3
+Glenbrook,Stamford,1_neighborhood,Percent under age 18,0.216,Age,map,.0%,3,3
+Newfield,Stamford,1_neighborhood,Percent under age 18,0.202,Age,map,.0%,3,3
+North Stamford,Stamford,1_neighborhood,Percent under age 18,0.24,Age,map,.0%,3,3
+PH-Roxbury-Westover,Stamford,1_neighborhood,Percent under age 18,0.202,Age,map,.0%,3,3
+Ridgeway,Stamford,1_neighborhood,Percent under age 18,0.201,Age,map,.0%,3,3
+Shippan,Stamford,1_neighborhood,Percent under age 18,0.225,Age,map,.0%,3,3
+South End,Stamford,1_neighborhood,Percent under age 18,0.222,Age,map,.0%,3,3
+Springdale,Stamford,1_neighborhood,Percent under age 18,0.233,Age,map,.0%,3,3
+Turn of River,Stamford,1_neighborhood,Percent under age 18,0.211,Age,map,.0%,3,3
+Waterside,Stamford,1_neighborhood,Percent under age 18,0.227,Age,map,.0%,3,3
+West Side,Stamford,1_neighborhood,Percent under age 18,0.269,Age,map,.0%,3,3
+Stamford,Stamford,2_city,Percent under age 18,0.213,Age,map,.0%,3,3
+Fairfield County,Stamford,3_county,Percent under age 18,0.236,Age,map,.0%,3,3
+Connecticut,Stamford,4_state,Percent under age 18,0.216,Age,map,.0%,3,3
+Belltown,Stamford,1_neighborhood,Population ages 65+,522,Age,table,",",4,4
+Cove-East Side,Stamford,1_neighborhood,Population ages 65+,1829,Age,table,",",4,4
+Downtown,Stamford,1_neighborhood,Population ages 65+,2154,Age,table,",",4,4
+Glenbrook,Stamford,1_neighborhood,Population ages 65+,1887,Age,table,",",4,4
+Newfield,Stamford,1_neighborhood,Population ages 65+,662,Age,table,",",4,4
+North Stamford,Stamford,1_neighborhood,Population ages 65+,2530,Age,table,",",4,4
+PH-Roxbury-Westover,Stamford,1_neighborhood,Population ages 65+,1296,Age,table,",",4,4
+Ridgeway,Stamford,1_neighborhood,Population ages 65+,584,Age,table,",",4,4
+Shippan,Stamford,1_neighborhood,Population ages 65+,368,Age,table,",",4,4
+South End,Stamford,1_neighborhood,Population ages 65+,186,Age,table,",",4,4
+Springdale,Stamford,1_neighborhood,Population ages 65+,866,Age,table,",",4,4
+Turn of River,Stamford,1_neighborhood,Population ages 65+,2093,Age,table,",",4,4
+Waterside,Stamford,1_neighborhood,Population ages 65+,633,Age,table,",",4,4
+West Side,Stamford,1_neighborhood,Population ages 65+,1091,Age,table,",",4,4
+Stamford,Stamford,2_city,Population ages 65+,16701,Age,table,",",4,4
+Fairfield County,Stamford,3_county,Population ages 65+,135434,Age,table,",",4,4
+Connecticut,Stamford,4_state,Population ages 65+,555023,Age,table,",",4,4
+Belltown,Stamford,1_neighborhood,Percent ages 65+,0.123,Age,map,.0%,5,5
+Cove-East Side,Stamford,1_neighborhood,Percent ages 65+,0.102,Age,map,.0%,5,5
+Downtown,Stamford,1_neighborhood,Percent ages 65+,0.111,Age,map,.0%,5,5
+Glenbrook,Stamford,1_neighborhood,Percent ages 65+,0.147,Age,map,.0%,5,5
+Newfield,Stamford,1_neighborhood,Percent ages 65+,0.194,Age,map,.0%,5,5
+North Stamford,Stamford,1_neighborhood,Percent ages 65+,0.173,Age,map,.0%,5,5
+PH-Roxbury-Westover,Stamford,1_neighborhood,Percent ages 65+,0.261,Age,map,.0%,5,5
+Ridgeway,Stamford,1_neighborhood,Percent ages 65+,0.125,Age,map,.0%,5,5
+Shippan,Stamford,1_neighborhood,Percent ages 65+,0.161,Age,map,.0%,5,5
+South End,Stamford,1_neighborhood,Percent ages 65+,0.0416,Age,map,.0%,5,5
+Springdale,Stamford,1_neighborhood,Percent ages 65+,0.12,Age,map,.0%,5,5
+Turn of River,Stamford,1_neighborhood,Percent ages 65+,0.166,Age,map,.0%,5,5
+Waterside,Stamford,1_neighborhood,Percent ages 65+,0.108,Age,map,.0%,5,5
+West Side,Stamford,1_neighborhood,Percent ages 65+,0.0848,Age,map,.0%,5,5
+Stamford,Stamford,2_city,Percent ages 65+,0.131,Age,map,.0%,5,5
+Fairfield County,Stamford,3_county,Percent ages 65+,0.144,Age,map,.0%,5,5
+Connecticut,Stamford,4_state,Percent ages 65+,0.155,Age,map,.0%,5,5
+Belltown,Stamford,1_neighborhood,Total population,4258,Race and ethnicity,table,",",1,6
+Cove-East Side,Stamford,1_neighborhood,Total population,17977,Race and ethnicity,table,",",1,6
+Downtown,Stamford,1_neighborhood,Total population,19440,Race and ethnicity,table,",",1,6
+Glenbrook,Stamford,1_neighborhood,Total population,12814,Race and ethnicity,table,",",1,6
+Newfield,Stamford,1_neighborhood,Total population,3408,Race and ethnicity,table,",",1,6
+North Stamford,Stamford,1_neighborhood,Total population,14599,Race and ethnicity,table,",",1,6
+PH-Roxbury-Westover,Stamford,1_neighborhood,Total population,4972,Race and ethnicity,table,",",1,6
+Ridgeway,Stamford,1_neighborhood,Total population,4678,Race and ethnicity,table,",",1,6
+Shippan,Stamford,1_neighborhood,Total population,2281,Race and ethnicity,table,",",1,6
+South End,Stamford,1_neighborhood,Total population,4468,Race and ethnicity,table,",",1,6
+Springdale,Stamford,1_neighborhood,Total population,7229,Race and ethnicity,table,",",1,6
+Turn of River,Stamford,1_neighborhood,Total population,12589,Race and ethnicity,table,",",1,6
+Waterside,Stamford,1_neighborhood,Total population,5836,Race and ethnicity,table,",",1,6
+West Side,Stamford,1_neighborhood,Total population,12861,Race and ethnicity,table,",",1,6
+Stamford,Stamford,2_city,Total population,127410,Race and ethnicity,table,",",1,6
+Fairfield County,Stamford,3_county,Total population,941618,Race and ethnicity,table,",",1,6
+Connecticut,Stamford,4_state,Total population,3588570,Race and ethnicity,table,",",1,6
+Belltown,Stamford,1_neighborhood,Latino population,643,Race and ethnicity,table,",",2,7
+Cove-East Side,Stamford,1_neighborhood,Latino population,7715,Race and ethnicity,table,",",2,7
+Downtown,Stamford,1_neighborhood,Latino population,4133,Race and ethnicity,table,",",2,7
+Glenbrook,Stamford,1_neighborhood,Latino population,3885,Race and ethnicity,table,",",2,7
+Newfield,Stamford,1_neighborhood,Latino population,445,Race and ethnicity,table,",",2,7
+North Stamford,Stamford,1_neighborhood,Latino population,1337,Race and ethnicity,table,",",2,7
+PH-Roxbury-Westover,Stamford,1_neighborhood,Latino population,460,Race and ethnicity,table,",",2,7
+Ridgeway,Stamford,1_neighborhood,Latino population,1300,Race and ethnicity,table,",",2,7
+Shippan,Stamford,1_neighborhood,Latino population,258,Race and ethnicity,table,",",2,7
+South End,Stamford,1_neighborhood,Latino population,2154,Race and ethnicity,table,",",2,7
+Springdale,Stamford,1_neighborhood,Latino population,1428,Race and ethnicity,table,",",2,7
+Turn of River,Stamford,1_neighborhood,Latino population,1404,Race and ethnicity,table,",",2,7
+Waterside,Stamford,1_neighborhood,Latino population,2739,Race and ethnicity,table,",",2,7
+West Side,Stamford,1_neighborhood,Latino population,5925,Race and ethnicity,table,",",2,7
+Stamford,Stamford,2_city,Latino population,33826,Race and ethnicity,table,",",2,7
+Fairfield County,Stamford,3_county,Latino population,175480,Race and ethnicity,table,",",2,7
+Connecticut,Stamford,4_state,Latino population,537728,Race and ethnicity,table,",",2,7
+Belltown,Stamford,1_neighborhood,Percent Latino,0.151,Race and ethnicity,map,.0%,3,8
+Cove-East Side,Stamford,1_neighborhood,Percent Latino,0.429,Race and ethnicity,map,.0%,3,8
+Downtown,Stamford,1_neighborhood,Percent Latino,0.213,Race and ethnicity,map,.0%,3,8
+Glenbrook,Stamford,1_neighborhood,Percent Latino,0.303,Race and ethnicity,map,.0%,3,8
+Newfield,Stamford,1_neighborhood,Percent Latino,0.13,Race and ethnicity,map,.0%,3,8
+North Stamford,Stamford,1_neighborhood,Percent Latino,0.0916,Race and ethnicity,map,.0%,3,8
+PH-Roxbury-Westover,Stamford,1_neighborhood,Percent Latino,0.0925,Race and ethnicity,map,.0%,3,8
+Ridgeway,Stamford,1_neighborhood,Percent Latino,0.278,Race and ethnicity,map,.0%,3,8
+Shippan,Stamford,1_neighborhood,Percent Latino,0.113,Race and ethnicity,map,.0%,3,8
+South End,Stamford,1_neighborhood,Percent Latino,0.482,Race and ethnicity,map,.0%,3,8
+Springdale,Stamford,1_neighborhood,Percent Latino,0.198,Race and ethnicity,map,.0%,3,8
+Turn of River,Stamford,1_neighborhood,Percent Latino,0.112,Race and ethnicity,map,.0%,3,8
+Waterside,Stamford,1_neighborhood,Percent Latino,0.469,Race and ethnicity,map,.0%,3,8
+West Side,Stamford,1_neighborhood,Percent Latino,0.461,Race and ethnicity,map,.0%,3,8
+Stamford,Stamford,2_city,Percent Latino,0.265,Race and ethnicity,map,.0%,3,8
+Fairfield County,Stamford,3_county,Percent Latino,0.186,Race and ethnicity,map,.0%,3,8
+Connecticut,Stamford,4_state,Percent Latino,0.15,Race and ethnicity,map,.0%,3,8
+Belltown,Stamford,1_neighborhood,White population,2648,Race and ethnicity,table,",",4,9
+Cove-East Side,Stamford,1_neighborhood,White population,6276,Race and ethnicity,table,",",4,9
+Downtown,Stamford,1_neighborhood,White population,8063,Race and ethnicity,table,",",4,9
+Glenbrook,Stamford,1_neighborhood,White population,5795,Race and ethnicity,table,",",4,9
+Newfield,Stamford,1_neighborhood,White population,2693,Race and ethnicity,table,",",4,9
+North Stamford,Stamford,1_neighborhood,White population,11634,Race and ethnicity,table,",",4,9
+PH-Roxbury-Westover,Stamford,1_neighborhood,White population,3998,Race and ethnicity,table,",",4,9
+Ridgeway,Stamford,1_neighborhood,White population,2073,Race and ethnicity,table,",",4,9
+Shippan,Stamford,1_neighborhood,White population,1879,Race and ethnicity,table,",",4,9
+South End,Stamford,1_neighborhood,White population,1287,Race and ethnicity,table,",",4,9
+Springdale,Stamford,1_neighborhood,White population,4257,Race and ethnicity,table,",",4,9
+Turn of River,Stamford,1_neighborhood,White population,8817,Race and ethnicity,table,",",4,9
+Waterside,Stamford,1_neighborhood,White population,1506,Race and ethnicity,table,",",4,9
+West Side,Stamford,1_neighborhood,White population,2330,Race and ethnicity,table,",",4,9
+Stamford,Stamford,2_city,White population,63256,Race and ethnicity,table,",",4,9
+Fairfield County,Stamford,3_county,White population,598017,Race and ethnicity,table,",",4,9
+Connecticut,Stamford,4_state,White population,2464450,Race and ethnicity,table,",",4,9
+Belltown,Stamford,1_neighborhood,Percent white,0.622,Race and ethnicity,map,.0%,5,10
+Cove-East Side,Stamford,1_neighborhood,Percent white,0.349,Race and ethnicity,map,.0%,5,10
+Downtown,Stamford,1_neighborhood,Percent white,0.415,Race and ethnicity,map,.0%,5,10
+Glenbrook,Stamford,1_neighborhood,Percent white,0.452,Race and ethnicity,map,.0%,5,10
+Newfield,Stamford,1_neighborhood,Percent white,0.79,Race and ethnicity,map,.0%,5,10
+North Stamford,Stamford,1_neighborhood,Percent white,0.797,Race and ethnicity,map,.0%,5,10
+PH-Roxbury-Westover,Stamford,1_neighborhood,Percent white,0.804,Race and ethnicity,map,.0%,5,10
+Ridgeway,Stamford,1_neighborhood,Percent white,0.443,Race and ethnicity,map,.0%,5,10
+Shippan,Stamford,1_neighborhood,Percent white,0.824,Race and ethnicity,map,.0%,5,10
+South End,Stamford,1_neighborhood,Percent white,0.288,Race and ethnicity,map,.0%,5,10
+Springdale,Stamford,1_neighborhood,Percent white,0.589,Race and ethnicity,map,.0%,5,10
+Turn of River,Stamford,1_neighborhood,Percent white,0.7,Race and ethnicity,map,.0%,5,10
+Waterside,Stamford,1_neighborhood,Percent white,0.258,Race and ethnicity,map,.0%,5,10
+West Side,Stamford,1_neighborhood,Percent white,0.181,Race and ethnicity,map,.0%,5,10
+Stamford,Stamford,2_city,Percent white,0.496,Race and ethnicity,map,.0%,5,10
+Fairfield County,Stamford,3_county,Percent white,0.635,Race and ethnicity,map,.0%,5,10
+Connecticut,Stamford,4_state,Percent white,0.687,Race and ethnicity,map,.0%,5,10
+Belltown,Stamford,1_neighborhood,Black population,426,Race and ethnicity,table,",",6,11
+Cove-East Side,Stamford,1_neighborhood,Black population,3149,Race and ethnicity,table,",",6,11
+Downtown,Stamford,1_neighborhood,Black population,3073,Race and ethnicity,table,",",6,11
+Glenbrook,Stamford,1_neighborhood,Black population,1911,Race and ethnicity,table,",",6,11
+Newfield,Stamford,1_neighborhood,Black population,64,Race and ethnicity,table,",",6,11
+North Stamford,Stamford,1_neighborhood,Black population,456,Race and ethnicity,table,",",6,11
+PH-Roxbury-Westover,Stamford,1_neighborhood,Black population,167,Race and ethnicity,table,",",6,11
+Ridgeway,Stamford,1_neighborhood,Black population,801,Race and ethnicity,table,",",6,11
+Shippan,Stamford,1_neighborhood,Black population,36,Race and ethnicity,table,",",6,11
+South End,Stamford,1_neighborhood,Black population,900,Race and ethnicity,table,",",6,11
+Springdale,Stamford,1_neighborhood,Black population,592,Race and ethnicity,table,",",6,11
+Turn of River,Stamford,1_neighborhood,Black population,706,Race and ethnicity,table,",",6,11
+Waterside,Stamford,1_neighborhood,Black population,1480,Race and ethnicity,table,",",6,11
+West Side,Stamford,1_neighborhood,Black population,4062,Race and ethnicity,table,",",6,11
+Stamford,Stamford,2_city,Black population,17822,Race and ethnicity,table,",",6,11
+Fairfield County,Stamford,3_county,Black population,98457,Race and ethnicity,table,",",6,11
+Connecticut,Stamford,4_state,Black population,347674,Race and ethnicity,table,",",6,11
+Belltown,Stamford,1_neighborhood,Percent black,0.1,Race and ethnicity,map,.0%,7,12
+Cove-East Side,Stamford,1_neighborhood,Percent black,0.175,Race and ethnicity,map,.0%,7,12
+Downtown,Stamford,1_neighborhood,Percent black,0.158,Race and ethnicity,map,.0%,7,12
+Glenbrook,Stamford,1_neighborhood,Percent black,0.149,Race and ethnicity,map,.0%,7,12
+Newfield,Stamford,1_neighborhood,Percent black,0.0188,Race and ethnicity,map,.0%,7,12
+North Stamford,Stamford,1_neighborhood,Percent black,0.0312,Race and ethnicity,map,.0%,7,12
+PH-Roxbury-Westover,Stamford,1_neighborhood,Percent black,0.0336,Race and ethnicity,map,.0%,7,12
+Ridgeway,Stamford,1_neighborhood,Percent black,0.171,Race and ethnicity,map,.0%,7,12
+Shippan,Stamford,1_neighborhood,Percent black,0.0158,Race and ethnicity,map,.0%,7,12
+South End,Stamford,1_neighborhood,Percent black,0.201,Race and ethnicity,map,.0%,7,12
+Springdale,Stamford,1_neighborhood,Percent black,0.0818,Race and ethnicity,map,.0%,7,12
+Turn of River,Stamford,1_neighborhood,Percent black,0.0561,Race and ethnicity,map,.0%,7,12
+Waterside,Stamford,1_neighborhood,Percent black,0.254,Race and ethnicity,map,.0%,7,12
+West Side,Stamford,1_neighborhood,Percent black,0.316,Race and ethnicity,map,.0%,7,12
+Stamford,Stamford,2_city,Percent black,0.14,Race and ethnicity,map,.0%,7,12
+Fairfield County,Stamford,3_county,Percent black,0.105,Race and ethnicity,map,.0%,7,12
+Connecticut,Stamford,4_state,Percent black,0.0969,Race and ethnicity,map,.0%,7,12
+Belltown,Stamford,1_neighborhood,Other race population,541,Race and ethnicity,table,",",8,13
+Cove-East Side,Stamford,1_neighborhood,Other race population,837,Race and ethnicity,table,",",8,13
+Downtown,Stamford,1_neighborhood,Other race population,4171,Race and ethnicity,table,",",8,13
+Glenbrook,Stamford,1_neighborhood,Other race population,1224,Race and ethnicity,table,",",8,13
+Newfield,Stamford,1_neighborhood,Other race population,206,Race and ethnicity,table,",",8,13
+North Stamford,Stamford,1_neighborhood,Other race population,1172,Race and ethnicity,table,",",8,13
+PH-Roxbury-Westover,Stamford,1_neighborhood,Other race population,347,Race and ethnicity,table,",",8,13
+Ridgeway,Stamford,1_neighborhood,Other race population,504,Race and ethnicity,table,",",8,13
+Shippan,Stamford,1_neighborhood,Other race population,108,Race and ethnicity,table,",",8,13
+South End,Stamford,1_neighborhood,Other race population,127,Race and ethnicity,table,",",8,13
+Springdale,Stamford,1_neighborhood,Other race population,953,Race and ethnicity,table,",",8,13
+Turn of River,Stamford,1_neighborhood,Other race population,1662,Race and ethnicity,table,",",8,13
+Waterside,Stamford,1_neighborhood,Other race population,111,Race and ethnicity,table,",",8,13
+West Side,Stamford,1_neighborhood,Other race population,544,Race and ethnicity,table,",",8,13
+Stamford,Stamford,2_city,Other race population,12506,Race and ethnicity,table,",",8,13
+Fairfield County,Stamford,3_county,Other race population,69664,Race and ethnicity,table,",",8,13
+Connecticut,Stamford,4_state,Other race population,238718,Race and ethnicity,table,",",8,13
+Belltown,Stamford,1_neighborhood,Percent other race,0.127,Race and ethnicity,map,.0%,9,14
+Cove-East Side,Stamford,1_neighborhood,Percent other race,0.0466,Race and ethnicity,map,.0%,9,14
+Downtown,Stamford,1_neighborhood,Percent other race,0.215,Race and ethnicity,map,.0%,9,14
+Glenbrook,Stamford,1_neighborhood,Percent other race,0.0955,Race and ethnicity,map,.0%,9,14
+Newfield,Stamford,1_neighborhood,Percent other race,0.0604,Race and ethnicity,map,.0%,9,14
+North Stamford,Stamford,1_neighborhood,Percent other race,0.0803,Race and ethnicity,map,.0%,9,14
+PH-Roxbury-Westover,Stamford,1_neighborhood,Percent other race,0.0698,Race and ethnicity,map,.0%,9,14
+Ridgeway,Stamford,1_neighborhood,Percent other race,0.108,Race and ethnicity,map,.0%,9,14
+Shippan,Stamford,1_neighborhood,Percent other race,0.0473,Race and ethnicity,map,.0%,9,14
+South End,Stamford,1_neighborhood,Percent other race,0.0284,Race and ethnicity,map,.0%,9,14
+Springdale,Stamford,1_neighborhood,Percent other race,0.132,Race and ethnicity,map,.0%,9,14
+Turn of River,Stamford,1_neighborhood,Percent other race,0.132,Race and ethnicity,map,.0%,9,14
+Waterside,Stamford,1_neighborhood,Percent other race,0.019,Race and ethnicity,map,.0%,9,14
+West Side,Stamford,1_neighborhood,Percent other race,0.0423,Race and ethnicity,map,.0%,9,14
+Stamford,Stamford,2_city,Percent other race,0.0982,Race and ethnicity,map,.0%,9,14
+Fairfield County,Stamford,3_county,Percent other race,0.074,Race and ethnicity,map,.0%,9,14
+Connecticut,Stamford,4_state,Percent other race,0.0665,Race and ethnicity,map,.0%,9,14
+Belltown,Stamford,1_neighborhood,Total households,1656,Households,table,",",1,15
+Cove-East Side,Stamford,1_neighborhood,Total households,6336,Households,table,",",1,15
+Downtown,Stamford,1_neighborhood,Total households,9301,Households,table,",",1,15
+Glenbrook,Stamford,1_neighborhood,Total households,5063,Households,table,",",1,15
+Newfield,Stamford,1_neighborhood,Total households,1294,Households,table,",",1,15
+North Stamford,Stamford,1_neighborhood,Total households,4861,Households,table,",",1,15
+PH-Roxbury-Westover,Stamford,1_neighborhood,Total households,1715,Households,table,",",1,15
+Ridgeway,Stamford,1_neighborhood,Total households,1582,Households,table,",",1,15
+Shippan,Stamford,1_neighborhood,Total households,820,Households,table,",",1,15
+South End,Stamford,1_neighborhood,Total households,1602,Households,table,",",1,15
+Springdale,Stamford,1_neighborhood,Total households,2881,Households,table,",",1,15
+Turn of River,Stamford,1_neighborhood,Total households,4327,Households,table,",",1,15
+Waterside,Stamford,1_neighborhood,Total households,1993,Households,table,",",1,15
+West Side,Stamford,1_neighborhood,Total households,4278,Households,table,",",1,15
+Stamford,Stamford,2_city,Total households,47708,Households,table,",",1,15
+Fairfield County,Stamford,3_county,Total households,335209,Households,table,",",1,15
+Connecticut,Stamford,4_state,Total households,1354713,Households,table,",",1,15
+Belltown,Stamford,1_neighborhood,Owner-occupied households,1124,Households,table,",",2,16
+Cove-East Side,Stamford,1_neighborhood,Owner-occupied households,2694,Households,table,",",2,16
+Downtown,Stamford,1_neighborhood,Owner-occupied households,1992,Households,table,",",2,16
+Glenbrook,Stamford,1_neighborhood,Owner-occupied households,3039,Households,table,",",2,16
+Newfield,Stamford,1_neighborhood,Owner-occupied households,1059,Households,table,",",2,16
+North Stamford,Stamford,1_neighborhood,Owner-occupied households,4564,Households,table,",",2,16
+PH-Roxbury-Westover,Stamford,1_neighborhood,Owner-occupied households,1494,Households,table,",",2,16
+Ridgeway,Stamford,1_neighborhood,Owner-occupied households,1256,Households,table,",",2,16
+Shippan,Stamford,1_neighborhood,Owner-occupied households,717,Households,table,",",2,16
+South End,Stamford,1_neighborhood,Owner-occupied households,130,Households,table,",",2,16
+Springdale,Stamford,1_neighborhood,Owner-occupied households,1999,Households,table,",",2,16
+Turn of River,Stamford,1_neighborhood,Owner-occupied households,3868,Households,table,",",2,16
+Waterside,Stamford,1_neighborhood,Owner-occupied households,799,Households,table,",",2,16
+West Side,Stamford,1_neighborhood,Owner-occupied households,1281,Households,table,",",2,16
+Stamford,Stamford,2_city,Owner-occupied households,26016,Households,table,",",2,16
+Fairfield County,Stamford,3_county,Owner-occupied households,226707,Households,table,",",2,16
+Connecticut,Stamford,4_state,Owner-occupied households,900223,Households,table,",",2,16
+Belltown,Stamford,1_neighborhood,Homeownership rate,0.679,Households,map,.0%,3,17
+Cove-East Side,Stamford,1_neighborhood,Homeownership rate,0.425,Households,map,.0%,3,17
+Downtown,Stamford,1_neighborhood,Homeownership rate,0.214,Households,map,.0%,3,17
+Glenbrook,Stamford,1_neighborhood,Homeownership rate,0.6,Households,map,.0%,3,17
+Newfield,Stamford,1_neighborhood,Homeownership rate,0.818,Households,map,.0%,3,17
+North Stamford,Stamford,1_neighborhood,Homeownership rate,0.939,Households,map,.0%,3,17
+PH-Roxbury-Westover,Stamford,1_neighborhood,Homeownership rate,0.871,Households,map,.0%,3,17
+Ridgeway,Stamford,1_neighborhood,Homeownership rate,0.794,Households,map,.0%,3,17
+Shippan,Stamford,1_neighborhood,Homeownership rate,0.874,Households,map,.0%,3,17
+South End,Stamford,1_neighborhood,Homeownership rate,0.0811,Households,map,.0%,3,17
+Springdale,Stamford,1_neighborhood,Homeownership rate,0.694,Households,map,.0%,3,17
+Turn of River,Stamford,1_neighborhood,Homeownership rate,0.894,Households,map,.0%,3,17
+Waterside,Stamford,1_neighborhood,Homeownership rate,0.401,Households,map,.0%,3,17
+West Side,Stamford,1_neighborhood,Homeownership rate,0.299,Households,map,.0%,3,17
+Stamford,Stamford,2_city,Homeownership rate,0.545,Households,map,.0%,3,17
+Fairfield County,Stamford,3_county,Homeownership rate,0.676,Households,map,.0%,3,17
+Connecticut,Stamford,4_state,Homeownership rate,0.665,Households,map,.0%,3,17
+Belltown,Stamford,1_neighborhood,Poverty status known,4240,Income,table,",",1,18
+Cove-East Side,Stamford,1_neighborhood,Poverty status known,17849,Income,table,",",1,18
+Downtown,Stamford,1_neighborhood,Poverty status known,19432,Income,table,",",1,18
+Glenbrook,Stamford,1_neighborhood,Poverty status known,12578,Income,table,",",1,18
+Newfield,Stamford,1_neighborhood,Poverty status known,3408,Income,table,",",1,18
+North Stamford,Stamford,1_neighborhood,Poverty status known,14474,Income,table,",",1,18
+PH-Roxbury-Westover,Stamford,1_neighborhood,Poverty status known,4867,Income,table,",",1,18
+Ridgeway,Stamford,1_neighborhood,Poverty status known,4642,Income,table,",",1,18
+Shippan,Stamford,1_neighborhood,Poverty status known,2281,Income,table,",",1,18
+South End,Stamford,1_neighborhood,Poverty status known,4377,Income,table,",",1,18
+Springdale,Stamford,1_neighborhood,Poverty status known,7205,Income,table,",",1,18
+Turn of River,Stamford,1_neighborhood,Poverty status known,12569,Income,table,",",1,18
+Waterside,Stamford,1_neighborhood,Poverty status known,5836,Income,table,",",1,18
+West Side,Stamford,1_neighborhood,Poverty status known,12704,Income,table,",",1,18
+Stamford,Stamford,2_city,Poverty status known,126461,Income,table,",",1,18
+Fairfield County,Stamford,3_county,Poverty status known,923385,Income,table,",",1,18
+Connecticut,Stamford,4_state,Poverty status known,3479672,Income,table,",",1,18
+Belltown,Stamford,1_neighborhood,Population in poverty,213,Income,table,",",2,19
+Cove-East Side,Stamford,1_neighborhood,Population in poverty,1512,Income,table,",",2,19
+Downtown,Stamford,1_neighborhood,Population in poverty,2761,Income,table,",",2,19
+Glenbrook,Stamford,1_neighborhood,Population in poverty,840,Income,table,",",2,19
+Newfield,Stamford,1_neighborhood,Population in poverty,127,Income,table,",",2,19
+North Stamford,Stamford,1_neighborhood,Population in poverty,382,Income,table,",",2,19
+PH-Roxbury-Westover,Stamford,1_neighborhood,Population in poverty,116,Income,table,",",2,19
+Ridgeway,Stamford,1_neighborhood,Population in poverty,124,Income,table,",",2,19
+Shippan,Stamford,1_neighborhood,Population in poverty,92,Income,table,",",2,19
+South End,Stamford,1_neighborhood,Population in poverty,1159,Income,table,",",2,19
+Springdale,Stamford,1_neighborhood,Population in poverty,312,Income,table,",",2,19
+Turn of River,Stamford,1_neighborhood,Population in poverty,168,Income,table,",",2,19
+Waterside,Stamford,1_neighborhood,Population in poverty,1244,Income,table,",",2,19
+West Side,Stamford,1_neighborhood,Population in poverty,2228,Income,table,",",2,19
+Stamford,Stamford,2_city,Population in poverty,11279,Income,table,",",2,19
+Fairfield County,Stamford,3_county,Population in poverty,81553,Income,table,",",2,19
+Connecticut,Stamford,4_state,Population in poverty,360464,Income,table,",",2,19
+Belltown,Stamford,1_neighborhood,Poverty rate,0.0502,Income,map,.0%,3,20
+Cove-East Side,Stamford,1_neighborhood,Poverty rate,0.0847,Income,map,.0%,3,20
+Downtown,Stamford,1_neighborhood,Poverty rate,0.142,Income,map,.0%,3,20
+Glenbrook,Stamford,1_neighborhood,Poverty rate,0.0668,Income,map,.0%,3,20
+Newfield,Stamford,1_neighborhood,Poverty rate,0.0373,Income,map,.0%,3,20
+North Stamford,Stamford,1_neighborhood,Poverty rate,0.0264,Income,map,.0%,3,20
+PH-Roxbury-Westover,Stamford,1_neighborhood,Poverty rate,0.0238,Income,map,.0%,3,20
+Ridgeway,Stamford,1_neighborhood,Poverty rate,0.0267,Income,map,.0%,3,20
+Shippan,Stamford,1_neighborhood,Poverty rate,0.0403,Income,map,.0%,3,20
+South End,Stamford,1_neighborhood,Poverty rate,0.265,Income,map,.0%,3,20
+Springdale,Stamford,1_neighborhood,Poverty rate,0.0434,Income,map,.0%,3,20
+Turn of River,Stamford,1_neighborhood,Poverty rate,0.0134,Income,map,.0%,3,20
+Waterside,Stamford,1_neighborhood,Poverty rate,0.213,Income,map,.0%,3,20
+West Side,Stamford,1_neighborhood,Poverty rate,0.175,Income,map,.0%,3,20
+Stamford,Stamford,2_city,Poverty rate,0.0892,Income,map,.0%,3,20
+Fairfield County,Stamford,3_county,Poverty rate,0.0883,Income,map,.0%,3,20
+Connecticut,Stamford,4_state,Poverty rate,0.104,Income,map,.0%,3,20
+Belltown,Stamford,1_neighborhood,Low-income population,621,Income,table,",",4,21
+Cove-East Side,Stamford,1_neighborhood,Low-income population,5193,Income,table,",",4,21
+Downtown,Stamford,1_neighborhood,Low-income population,5188,Income,table,",",4,21
+Glenbrook,Stamford,1_neighborhood,Low-income population,3910,Income,table,",",4,21
+Newfield,Stamford,1_neighborhood,Low-income population,332,Income,table,",",4,21
+North Stamford,Stamford,1_neighborhood,Low-income population,759,Income,table,",",4,21
+PH-Roxbury-Westover,Stamford,1_neighborhood,Low-income population,209,Income,table,",",4,21
+Ridgeway,Stamford,1_neighborhood,Low-income population,787,Income,table,",",4,21
+Shippan,Stamford,1_neighborhood,Low-income population,226,Income,table,",",4,21
+South End,Stamford,1_neighborhood,Low-income population,2218,Income,table,",",4,21
+Springdale,Stamford,1_neighborhood,Low-income population,1600,Income,table,",",4,21
+Turn of River,Stamford,1_neighborhood,Low-income population,650,Income,table,",",4,21
+Waterside,Stamford,1_neighborhood,Low-income population,2627,Income,table,",",4,21
+West Side,Stamford,1_neighborhood,Low-income population,5319,Income,table,",",4,21
+Stamford,Stamford,2_city,Low-income population,29639,Income,table,",",4,21
+Fairfield County,Stamford,3_county,Low-income population,196117,Income,table,",",4,21
+Connecticut,Stamford,4_state,Low-income population,812120,Income,table,",",4,21
+Belltown,Stamford,1_neighborhood,Low-income rate,0.146,Income,map,.0%,5,22
+Cove-East Side,Stamford,1_neighborhood,Low-income rate,0.291,Income,map,.0%,5,22
+Downtown,Stamford,1_neighborhood,Low-income rate,0.267,Income,map,.0%,5,22
+Glenbrook,Stamford,1_neighborhood,Low-income rate,0.311,Income,map,.0%,5,22
+Newfield,Stamford,1_neighborhood,Low-income rate,0.0975,Income,map,.0%,5,22
+North Stamford,Stamford,1_neighborhood,Low-income rate,0.0524,Income,map,.0%,5,22
+PH-Roxbury-Westover,Stamford,1_neighborhood,Low-income rate,0.0429,Income,map,.0%,5,22
+Ridgeway,Stamford,1_neighborhood,Low-income rate,0.17,Income,map,.0%,5,22
+Shippan,Stamford,1_neighborhood,Low-income rate,0.0991,Income,map,.0%,5,22
+South End,Stamford,1_neighborhood,Low-income rate,0.507,Income,map,.0%,5,22
+Springdale,Stamford,1_neighborhood,Low-income rate,0.222,Income,map,.0%,5,22
+Turn of River,Stamford,1_neighborhood,Low-income rate,0.0517,Income,map,.0%,5,22
+Waterside,Stamford,1_neighborhood,Low-income rate,0.45,Income,map,.0%,5,22
+West Side,Stamford,1_neighborhood,Low-income rate,0.419,Income,map,.0%,5,22
+Stamford,Stamford,2_city,Low-income rate,0.234,Income,map,.0%,5,22
+Fairfield County,Stamford,3_county,Low-income rate,0.212,Income,map,.0%,5,22
+Connecticut,Stamford,4_state,Low-income rate,0.233,Income,map,.0%,5,22
+Belltown,Stamford,1_neighborhood,Total population,4258,Immigration,table,",",1,23
+Cove-East Side,Stamford,1_neighborhood,Total population,17977,Immigration,table,",",1,23
+Downtown,Stamford,1_neighborhood,Total population,19440,Immigration,table,",",1,23
+Glenbrook,Stamford,1_neighborhood,Total population,12814,Immigration,table,",",1,23
+Newfield,Stamford,1_neighborhood,Total population,3408,Immigration,table,",",1,23
+North Stamford,Stamford,1_neighborhood,Total population,14599,Immigration,table,",",1,23
+PH-Roxbury-Westover,Stamford,1_neighborhood,Total population,4972,Immigration,table,",",1,23
+Ridgeway,Stamford,1_neighborhood,Total population,4678,Immigration,table,",",1,23
+Shippan,Stamford,1_neighborhood,Total population,2281,Immigration,table,",",1,23
+South End,Stamford,1_neighborhood,Total population,4468,Immigration,table,",",1,23
+Springdale,Stamford,1_neighborhood,Total population,7229,Immigration,table,",",1,23
+Turn of River,Stamford,1_neighborhood,Total population,12589,Immigration,table,",",1,23
+Waterside,Stamford,1_neighborhood,Total population,5836,Immigration,table,",",1,23
+West Side,Stamford,1_neighborhood,Total population,12861,Immigration,table,",",1,23
+Stamford,Stamford,2_city,Total population,127410,Immigration,table,",",1,23
+Fairfield County,Stamford,3_county,Total population,941618,Immigration,table,",",1,23
+Connecticut,Stamford,4_state,Total population,3588570,Immigration,table,",",1,23
+Belltown,Stamford,1_neighborhood,Foreign-born population,1056,Immigration,table,",",2,24
+Cove-East Side,Stamford,1_neighborhood,Foreign-born population,7745,Immigration,table,",",2,24
+Downtown,Stamford,1_neighborhood,Foreign-born population,8272,Immigration,table,",",2,24
+Glenbrook,Stamford,1_neighborhood,Foreign-born population,4607,Immigration,table,",",2,24
+Newfield,Stamford,1_neighborhood,Foreign-born population,470,Immigration,table,",",2,24
+North Stamford,Stamford,1_neighborhood,Foreign-born population,2755,Immigration,table,",",2,24
+PH-Roxbury-Westover,Stamford,1_neighborhood,Foreign-born population,1078,Immigration,table,",",2,24
+Ridgeway,Stamford,1_neighborhood,Foreign-born population,1426,Immigration,table,",",2,24
+Shippan,Stamford,1_neighborhood,Foreign-born population,408,Immigration,table,",",2,24
+South End,Stamford,1_neighborhood,Foreign-born population,1606,Immigration,table,",",2,24
+Springdale,Stamford,1_neighborhood,Foreign-born population,1829,Immigration,table,",",2,24
+Turn of River,Stamford,1_neighborhood,Foreign-born population,3214,Immigration,table,",",2,24
+Waterside,Stamford,1_neighborhood,Foreign-born population,1931,Immigration,table,",",2,24
+West Side,Stamford,1_neighborhood,Foreign-born population,5990,Immigration,table,",",2,24
+Stamford,Stamford,2_city,Foreign-born population,42386,Immigration,table,",",2,24
+Fairfield County,Stamford,3_county,Foreign-born population,199191,Immigration,table,",",2,24
+Connecticut,Stamford,4_state,Foreign-born population,503209,Immigration,table,",",2,24
+Belltown,Stamford,1_neighborhood,Percent foreign-born,0.248,Immigration,map,.0%,3,25
+Cove-East Side,Stamford,1_neighborhood,Percent foreign-born,0.431,Immigration,map,.0%,3,25
+Downtown,Stamford,1_neighborhood,Percent foreign-born,0.426,Immigration,map,.0%,3,25
+Glenbrook,Stamford,1_neighborhood,Percent foreign-born,0.359,Immigration,map,.0%,3,25
+Newfield,Stamford,1_neighborhood,Percent foreign-born,0.138,Immigration,map,.0%,3,25
+North Stamford,Stamford,1_neighborhood,Percent foreign-born,0.189,Immigration,map,.0%,3,25
+PH-Roxbury-Westover,Stamford,1_neighborhood,Percent foreign-born,0.217,Immigration,map,.0%,3,25
+Ridgeway,Stamford,1_neighborhood,Percent foreign-born,0.305,Immigration,map,.0%,3,25
+Shippan,Stamford,1_neighborhood,Percent foreign-born,0.179,Immigration,map,.0%,3,25
+South End,Stamford,1_neighborhood,Percent foreign-born,0.359,Immigration,map,.0%,3,25
+Springdale,Stamford,1_neighborhood,Percent foreign-born,0.253,Immigration,map,.0%,3,25
+Turn of River,Stamford,1_neighborhood,Percent foreign-born,0.255,Immigration,map,.0%,3,25
+Waterside,Stamford,1_neighborhood,Percent foreign-born,0.331,Immigration,map,.0%,3,25
+West Side,Stamford,1_neighborhood,Percent foreign-born,0.466,Immigration,map,.0%,3,25
+Stamford,Stamford,2_city,Percent foreign-born,0.333,Immigration,map,.0%,3,25
+Fairfield County,Stamford,3_county,Percent foreign-born,0.212,Immigration,map,.0%,3,25
+Connecticut,Stamford,4_state,Percent foreign-born,0.14,Immigration,map,.0%,3,25
+Belltown,Stamford,1_neighborhood,"Under 18, poverty status known",931,Income by age: children,table,",",1,26
+Cove-East Side,Stamford,1_neighborhood,"Under 18, poverty status known",3738,Income by age: children,table,",",1,26
+Downtown,Stamford,1_neighborhood,"Under 18, poverty status known",2862,Income by age: children,table,",",1,26
+Glenbrook,Stamford,1_neighborhood,"Under 18, poverty status known",2700,Income by age: children,table,",",1,26
+Newfield,Stamford,1_neighborhood,"Under 18, poverty status known",688,Income by age: children,table,",",1,26
+North Stamford,Stamford,1_neighborhood,"Under 18, poverty status known",3507,Income by age: children,table,",",1,26
+PH-Roxbury-Westover,Stamford,1_neighborhood,"Under 18, poverty status known",1003,Income by age: children,table,",",1,26
+Ridgeway,Stamford,1_neighborhood,"Under 18, poverty status known",905,Income by age: children,table,",",1,26
+Shippan,Stamford,1_neighborhood,"Under 18, poverty status known",514,Income by age: children,table,",",1,26
+South End,Stamford,1_neighborhood,"Under 18, poverty status known",909,Income by age: children,table,",",1,26
+Springdale,Stamford,1_neighborhood,"Under 18, poverty status known",1663,Income by age: children,table,",",1,26
+Turn of River,Stamford,1_neighborhood,"Under 18, poverty status known",2662,Income by age: children,table,",",1,26
+Waterside,Stamford,1_neighborhood,"Under 18, poverty status known",1326,Income by age: children,table,",",1,26
+West Side,Stamford,1_neighborhood,"Under 18, poverty status known",3362,Income by age: children,table,",",1,26
+Stamford,Stamford,2_city,"Under 18, poverty status known",26770,Income by age: children,table,",",1,26
+Fairfield County,Stamford,3_county,"Under 18, poverty status known",219170,Income by age: children,table,",",1,26
+Connecticut,Stamford,4_state,"Under 18, poverty status known",763850,Income by age: children,table,",",1,26
+Belltown,Stamford,1_neighborhood,Children in poverty,68,Income by age: children,table,",",2,27
+Cove-East Side,Stamford,1_neighborhood,Children in poverty,265,Income by age: children,table,",",2,27
+Downtown,Stamford,1_neighborhood,Children in poverty,400,Income by age: children,table,",",2,27
+Glenbrook,Stamford,1_neighborhood,Children in poverty,247,Income by age: children,table,",",2,27
+Newfield,Stamford,1_neighborhood,Children in poverty,0,Income by age: children,table,",",2,27
+North Stamford,Stamford,1_neighborhood,Children in poverty,46,Income by age: children,table,",",2,27
+PH-Roxbury-Westover,Stamford,1_neighborhood,Children in poverty,0,Income by age: children,table,",",2,27
+Ridgeway,Stamford,1_neighborhood,Children in poverty,15,Income by age: children,table,",",2,27
+Shippan,Stamford,1_neighborhood,Children in poverty,6,Income by age: children,table,",",2,27
+South End,Stamford,1_neighborhood,Children in poverty,338,Income by age: children,table,",",2,27
+Springdale,Stamford,1_neighborhood,Children in poverty,21,Income by age: children,table,",",2,27
+Turn of River,Stamford,1_neighborhood,Children in poverty,0,Income by age: children,table,",",2,27
+Waterside,Stamford,1_neighborhood,Children in poverty,501,Income by age: children,table,",",2,27
+West Side,Stamford,1_neighborhood,Children in poverty,765,Income by age: children,table,",",2,27
+Stamford,Stamford,2_city,Children in poverty,2672,Income by age: children,table,",",2,27
+Fairfield County,Stamford,3_county,Children in poverty,23736,Income by age: children,table,",",2,27
+Connecticut,Stamford,4_state,Children in poverty,107690,Income by age: children,table,",",2,27
+Belltown,Stamford,1_neighborhood,Child poverty rate,0.0733,Income by age: children,map,.0%,3,28
+Cove-East Side,Stamford,1_neighborhood,Child poverty rate,0.0709,Income by age: children,map,.0%,3,28
+Downtown,Stamford,1_neighborhood,Child poverty rate,0.14,Income by age: children,map,.0%,3,28
+Glenbrook,Stamford,1_neighborhood,Child poverty rate,0.0915,Income by age: children,map,.0%,3,28
+Newfield,Stamford,1_neighborhood,Child poverty rate,0,Income by age: children,map,.0%,3,28
+North Stamford,Stamford,1_neighborhood,Child poverty rate,0.0131,Income by age: children,map,.0%,3,28
+PH-Roxbury-Westover,Stamford,1_neighborhood,Child poverty rate,0,Income by age: children,map,.0%,3,28
+Ridgeway,Stamford,1_neighborhood,Child poverty rate,0.0166,Income by age: children,map,.0%,3,28
+Shippan,Stamford,1_neighborhood,Child poverty rate,0.0117,Income by age: children,map,.0%,3,28
+South End,Stamford,1_neighborhood,Child poverty rate,0.372,Income by age: children,map,.0%,3,28
+Springdale,Stamford,1_neighborhood,Child poverty rate,0.0123,Income by age: children,map,.0%,3,28
+Turn of River,Stamford,1_neighborhood,Child poverty rate,0,Income by age: children,map,.0%,3,28
+Waterside,Stamford,1_neighborhood,Child poverty rate,0.378,Income by age: children,map,.0%,3,28
+West Side,Stamford,1_neighborhood,Child poverty rate,0.228,Income by age: children,map,.0%,3,28
+Stamford,Stamford,2_city,Child poverty rate,0.0998,Income by age: children,map,.0%,3,28
+Fairfield County,Stamford,3_county,Child poverty rate,0.108,Income by age: children,map,.0%,3,28
+Connecticut,Stamford,4_state,Child poverty rate,0.141,Income by age: children,map,.0%,3,28
+Belltown,Stamford,1_neighborhood,Low-income children,208,Income by age: children,table,",",4,29
+Cove-East Side,Stamford,1_neighborhood,Low-income children,1292,Income by age: children,table,",",4,29
+Downtown,Stamford,1_neighborhood,Low-income children,966,Income by age: children,table,",",4,29
+Glenbrook,Stamford,1_neighborhood,Low-income children,1274,Income by age: children,table,",",4,29
+Newfield,Stamford,1_neighborhood,Low-income children,17,Income by age: children,table,",",4,29
+North Stamford,Stamford,1_neighborhood,Low-income children,173,Income by age: children,table,",",4,29
+PH-Roxbury-Westover,Stamford,1_neighborhood,Low-income children,0,Income by age: children,table,",",4,29
+Ridgeway,Stamford,1_neighborhood,Low-income children,153,Income by age: children,table,",",4,29
+Shippan,Stamford,1_neighborhood,Low-income children,37,Income by age: children,table,",",4,29
+South End,Stamford,1_neighborhood,Low-income children,681,Income by age: children,table,",",4,29
+Springdale,Stamford,1_neighborhood,Low-income children,591,Income by age: children,table,",",4,29
+Turn of River,Stamford,1_neighborhood,Low-income children,91,Income by age: children,table,",",4,29
+Waterside,Stamford,1_neighborhood,Low-income children,880,Income by age: children,table,",",4,29
+West Side,Stamford,1_neighborhood,Low-income children,1795,Income by age: children,table,",",4,29
+Stamford,Stamford,2_city,Low-income children,8158,Income by age: children,table,",",4,29
+Fairfield County,Stamford,3_county,Low-income children,56535,Income by age: children,table,",",4,29
+Connecticut,Stamford,4_state,Low-income children,229817,Income by age: children,table,",",4,29
+Belltown,Stamford,1_neighborhood,Child low-income rate,0.223,Income by age: children,map,.0%,5,30
+Cove-East Side,Stamford,1_neighborhood,Child low-income rate,0.346,Income by age: children,map,.0%,5,30
+Downtown,Stamford,1_neighborhood,Child low-income rate,0.338,Income by age: children,map,.0%,5,30
+Glenbrook,Stamford,1_neighborhood,Child low-income rate,0.472,Income by age: children,map,.0%,5,30
+Newfield,Stamford,1_neighborhood,Child low-income rate,0.0247,Income by age: children,map,.0%,5,30
+North Stamford,Stamford,1_neighborhood,Child low-income rate,0.0493,Income by age: children,map,.0%,5,30
+PH-Roxbury-Westover,Stamford,1_neighborhood,Child low-income rate,0,Income by age: children,map,.0%,5,30
+Ridgeway,Stamford,1_neighborhood,Child low-income rate,0.169,Income by age: children,map,.0%,5,30
+Shippan,Stamford,1_neighborhood,Child low-income rate,0.072,Income by age: children,map,.0%,5,30
+South End,Stamford,1_neighborhood,Child low-income rate,0.749,Income by age: children,map,.0%,5,30
+Springdale,Stamford,1_neighborhood,Child low-income rate,0.355,Income by age: children,map,.0%,5,30
+Turn of River,Stamford,1_neighborhood,Child low-income rate,0.0342,Income by age: children,map,.0%,5,30
+Waterside,Stamford,1_neighborhood,Child low-income rate,0.664,Income by age: children,map,.0%,5,30
+West Side,Stamford,1_neighborhood,Child low-income rate,0.534,Income by age: children,map,.0%,5,30
+Stamford,Stamford,2_city,Child low-income rate,0.305,Income by age: children,map,.0%,5,30
+Fairfield County,Stamford,3_county,Child low-income rate,0.258,Income by age: children,map,.0%,5,30
+Connecticut,Stamford,4_state,Child low-income rate,0.301,Income by age: children,map,.0%,5,30
+Belltown,Stamford,1_neighborhood,"Ages 65+, poverty status known",522,Income by age: seniors,table,",",1,31
+Cove-East Side,Stamford,1_neighborhood,"Ages 65+, poverty status known",1734,Income by age: seniors,table,",",1,31
+Downtown,Stamford,1_neighborhood,"Ages 65+, poverty status known",2154,Income by age: seniors,table,",",1,31
+Glenbrook,Stamford,1_neighborhood,"Ages 65+, poverty status known",1749,Income by age: seniors,table,",",1,31
+Newfield,Stamford,1_neighborhood,"Ages 65+, poverty status known",662,Income by age: seniors,table,",",1,31
+North Stamford,Stamford,1_neighborhood,"Ages 65+, poverty status known",2422,Income by age: seniors,table,",",1,31
+PH-Roxbury-Westover,Stamford,1_neighborhood,"Ages 65+, poverty status known",1203,Income by age: seniors,table,",",1,31
+Ridgeway,Stamford,1_neighborhood,"Ages 65+, poverty status known",584,Income by age: seniors,table,",",1,31
+Shippan,Stamford,1_neighborhood,"Ages 65+, poverty status known",368,Income by age: seniors,table,",",1,31
+South End,Stamford,1_neighborhood,"Ages 65+, poverty status known",186,Income by age: seniors,table,",",1,31
+Springdale,Stamford,1_neighborhood,"Ages 65+, poverty status known",866,Income by age: seniors,table,",",1,31
+Turn of River,Stamford,1_neighborhood,"Ages 65+, poverty status known",2093,Income by age: seniors,table,",",1,31
+Waterside,Stamford,1_neighborhood,"Ages 65+, poverty status known",633,Income by age: seniors,table,",",1,31
+West Side,Stamford,1_neighborhood,"Ages 65+, poverty status known",1044,Income by age: seniors,table,",",1,31
+Stamford,Stamford,2_city,"Ages 65+, poverty status known",16220,Income by age: seniors,table,",",1,31
+Fairfield County,Stamford,3_county,"Ages 65+, poverty status known",130544,Income by age: seniors,table,",",1,31
+Connecticut,Stamford,4_state,"Ages 65+, poverty status known",533413,Income by age: seniors,table,",",1,31
+Belltown,Stamford,1_neighborhood,Seniors in poverty,11,Income by age: seniors,table,",",2,32
+Cove-East Side,Stamford,1_neighborhood,Seniors in poverty,309,Income by age: seniors,table,",",2,32
+Downtown,Stamford,1_neighborhood,Seniors in poverty,557,Income by age: seniors,table,",",2,32
+Glenbrook,Stamford,1_neighborhood,Seniors in poverty,135,Income by age: seniors,table,",",2,32
+Newfield,Stamford,1_neighborhood,Seniors in poverty,70,Income by age: seniors,table,",",2,32
+North Stamford,Stamford,1_neighborhood,Seniors in poverty,49,Income by age: seniors,table,",",2,32
+PH-Roxbury-Westover,Stamford,1_neighborhood,Seniors in poverty,65,Income by age: seniors,table,",",2,32
+Ridgeway,Stamford,1_neighborhood,Seniors in poverty,18,Income by age: seniors,table,",",2,32
+Shippan,Stamford,1_neighborhood,Seniors in poverty,1,Income by age: seniors,table,",",2,32
+South End,Stamford,1_neighborhood,Seniors in poverty,95,Income by age: seniors,table,",",2,32
+Springdale,Stamford,1_neighborhood,Seniors in poverty,33,Income by age: seniors,table,",",2,32
+Turn of River,Stamford,1_neighborhood,Seniors in poverty,25,Income by age: seniors,table,",",2,32
+Waterside,Stamford,1_neighborhood,Seniors in poverty,45,Income by age: seniors,table,",",2,32
+West Side,Stamford,1_neighborhood,Seniors in poverty,170,Income by age: seniors,table,",",2,32
+Stamford,Stamford,2_city,Seniors in poverty,1583,Income by age: seniors,table,",",2,32
+Fairfield County,Stamford,3_county,Seniors in poverty,9121,Income by age: seniors,table,",",2,32
+Connecticut,Stamford,4_state,Seniors in poverty,38003,Income by age: seniors,table,",",2,32
+Belltown,Stamford,1_neighborhood,Senior poverty rate,0.0213,Income by age: seniors,map,.0%,3,33
+Cove-East Side,Stamford,1_neighborhood,Senior poverty rate,0.178,Income by age: seniors,map,.0%,3,33
+Downtown,Stamford,1_neighborhood,Senior poverty rate,0.259,Income by age: seniors,map,.0%,3,33
+Glenbrook,Stamford,1_neighborhood,Senior poverty rate,0.077,Income by age: seniors,map,.0%,3,33
+Newfield,Stamford,1_neighborhood,Senior poverty rate,0.105,Income by age: seniors,map,.0%,3,33
+North Stamford,Stamford,1_neighborhood,Senior poverty rate,0.0202,Income by age: seniors,map,.0%,3,33
+PH-Roxbury-Westover,Stamford,1_neighborhood,Senior poverty rate,0.054,Income by age: seniors,map,.0%,3,33
+Ridgeway,Stamford,1_neighborhood,Senior poverty rate,0.0308,Income by age: seniors,map,.0%,3,33
+Shippan,Stamford,1_neighborhood,Senior poverty rate,0.00272,Income by age: seniors,map,.0%,3,33
+South End,Stamford,1_neighborhood,Senior poverty rate,0.511,Income by age: seniors,map,.0%,3,33
+Springdale,Stamford,1_neighborhood,Senior poverty rate,0.0387,Income by age: seniors,map,.0%,3,33
+Turn of River,Stamford,1_neighborhood,Senior poverty rate,0.0119,Income by age: seniors,map,.0%,3,33
+Waterside,Stamford,1_neighborhood,Senior poverty rate,0.0711,Income by age: seniors,map,.0%,3,33
+West Side,Stamford,1_neighborhood,Senior poverty rate,0.163,Income by age: seniors,map,.0%,3,33
+Stamford,Stamford,2_city,Senior poverty rate,0.0976,Income by age: seniors,map,.0%,3,33
+Fairfield County,Stamford,3_county,Senior poverty rate,0.0699,Income by age: seniors,map,.0%,3,33
+Connecticut,Stamford,4_state,Senior poverty rate,0.0712,Income by age: seniors,map,.0%,3,33
+Belltown,Stamford,1_neighborhood,Low-income seniors,82,Income by age: seniors,table,",",4,34
+Cove-East Side,Stamford,1_neighborhood,Low-income seniors,582,Income by age: seniors,table,",",4,34
+Downtown,Stamford,1_neighborhood,Low-income seniors,1026,Income by age: seniors,table,",",4,34
+Glenbrook,Stamford,1_neighborhood,Low-income seniors,417,Income by age: seniors,table,",",4,34
+Newfield,Stamford,1_neighborhood,Low-income seniors,164,Income by age: seniors,table,",",4,34
+North Stamford,Stamford,1_neighborhood,Low-income seniors,124,Income by age: seniors,table,",",4,34
+PH-Roxbury-Westover,Stamford,1_neighborhood,Low-income seniors,105,Income by age: seniors,table,",",4,34
+Ridgeway,Stamford,1_neighborhood,Low-income seniors,75,Income by age: seniors,table,",",4,34
+Shippan,Stamford,1_neighborhood,Low-income seniors,45,Income by age: seniors,table,",",4,34
+South End,Stamford,1_neighborhood,Low-income seniors,150,Income by age: seniors,table,",",4,34
+Springdale,Stamford,1_neighborhood,Low-income seniors,112,Income by age: seniors,table,",",4,34
+Turn of River,Stamford,1_neighborhood,Low-income seniors,166,Income by age: seniors,table,",",4,34
+Waterside,Stamford,1_neighborhood,Low-income seniors,111,Income by age: seniors,table,",",4,34
+West Side,Stamford,1_neighborhood,Low-income seniors,288,Income by age: seniors,table,",",4,34
+Stamford,Stamford,2_city,Low-income seniors,3447,Income by age: seniors,table,",",4,34
+Fairfield County,Stamford,3_county,Low-income seniors,26616,Income by age: seniors,table,",",4,34
+Connecticut,Stamford,4_state,Low-income seniors,122224,Income by age: seniors,table,",",4,34
+Belltown,Stamford,1_neighborhood,Senior low-income rate,0.157,Income by age: seniors,map,.0%,5,35
+Cove-East Side,Stamford,1_neighborhood,Senior low-income rate,0.336,Income by age: seniors,map,.0%,5,35
+Downtown,Stamford,1_neighborhood,Senior low-income rate,0.476,Income by age: seniors,map,.0%,5,35
+Glenbrook,Stamford,1_neighborhood,Senior low-income rate,0.238,Income by age: seniors,map,.0%,5,35
+Newfield,Stamford,1_neighborhood,Senior low-income rate,0.247,Income by age: seniors,map,.0%,5,35
+North Stamford,Stamford,1_neighborhood,Senior low-income rate,0.0512,Income by age: seniors,map,.0%,5,35
+PH-Roxbury-Westover,Stamford,1_neighborhood,Senior low-income rate,0.0873,Income by age: seniors,map,.0%,5,35
+Ridgeway,Stamford,1_neighborhood,Senior low-income rate,0.128,Income by age: seniors,map,.0%,5,35
+Shippan,Stamford,1_neighborhood,Senior low-income rate,0.122,Income by age: seniors,map,.0%,5,35
+South End,Stamford,1_neighborhood,Senior low-income rate,0.806,Income by age: seniors,map,.0%,5,35
+Springdale,Stamford,1_neighborhood,Senior low-income rate,0.13,Income by age: seniors,map,.0%,5,35
+Turn of River,Stamford,1_neighborhood,Senior low-income rate,0.0793,Income by age: seniors,map,.0%,5,35
+Waterside,Stamford,1_neighborhood,Senior low-income rate,0.175,Income by age: seniors,map,.0%,5,35
+West Side,Stamford,1_neighborhood,Senior low-income rate,0.276,Income by age: seniors,map,.0%,5,35
+Stamford,Stamford,2_city,Senior low-income rate,0.213,Income by age: seniors,map,.0%,5,35
+Fairfield County,Stamford,3_county,Senior low-income rate,0.204,Income by age: seniors,map,.0%,5,35
+Connecticut,Stamford,4_state,Senior low-income rate,0.229,Income by age: seniors,map,.0%,5,35
