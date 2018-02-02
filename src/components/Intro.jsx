@@ -7,7 +7,10 @@ const text = 'Select a topic and indicator to view either a map or a chart. Clic
 const Intro = () => (
 	<div>
 		<Header as="h1">Stamford Neighborhood Profiles, 2016</Header>
-		<Message info>{text}</Message>
+		<Message info>
+			<p>{text}</p>
+			<p>For more information on Connecticut's communities and cities, visit DataHaven's <a href="http://www.ctdatahaven.org/communities">Communities</a> page or <a href="http://www.ctdatahaven.org">main website</a>.</p>
+		</Message>
 	</div>
 );
 
