@@ -5,7 +5,7 @@ import { nest } from 'd3-collection';
 import * as _ from 'underscore';
 import { uniqWith } from 'lodash';
 
-const url = './data/stamdata.csv';
+const url = process.env.PUBLIC_URL + '/data/stamdata.csv';
 
 export const loadData = (callback = _.noop) => {
 	queue()
