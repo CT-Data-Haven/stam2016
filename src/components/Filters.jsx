@@ -2,6 +2,8 @@ import React from 'react';
 import { Form } from 'semantic-ui-react';
 import * as _ from 'underscore';
 
+import '../styles/Filters.css'
+
 export default class Filters extends React.Component {
 	render() {
 		let topics = _.chain(this.props.indics)
@@ -26,6 +28,7 @@ export default class Filters extends React.Component {
 							value={this.props.topic}
 							options={topics}
 							onChange={this.props.onChange}
+							className="div5000"
 						/>
 						<Form.Select
 							name="indicator"
@@ -34,6 +37,7 @@ export default class Filters extends React.Component {
 							value={this.props.indicator}
 							options={indicators}
 							onChange={this.props.onChange}
+							className="div4000"
 						/>
 					</Form.Group>
 				</Form>

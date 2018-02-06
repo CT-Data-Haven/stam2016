@@ -15,7 +15,7 @@ import DataTable from './components/DataTable';
 import Intro from './components/Intro';
 import Footer from './components/Footer';
 
-const shape = require('./components/stamford.json');
+import topology from './components/stamford.json';
 const reset = { topic: 'Age', indicator: 'Percent under age 18', hood: 'Belltown' };
 
 class App extends Component {
@@ -143,10 +143,10 @@ class App extends Component {
 					<Header as="h4">{this.state.indicator} by neighborhood, 2016</Header>
 					<CityMap
 						data={this.state.toMap}
-						shape={shape}
+						topology={topology}
 						width={380}
-						height={420}
-						colorscale={this.state.colorscale}
+						height={380}
+						color={this.state.colorscale}
 						handleClick={this.handleVizClick}
 					/>
 				</Tab.Pane>
@@ -158,7 +158,7 @@ class App extends Component {
 						data={this.state.toChart}
 						hood={this.state.hood}
 						width={500}
-						height={420}
+						height={380}
 						handleClick={this.handleVizClick}
 					/>
 				</Tab.Pane>
